@@ -22,7 +22,7 @@ function Landing() {
             <div className="flex items-center gap-2 md:pt-4">
               <Button
                 target="_blank"
-                href="#"
+                href="https://github.com/SujoyKrHaldar/Next-Tailwind-Starter"
                 text="Get started"
                 design="bg-white text-black"
                 icon={<BsFillPlayFill />}

@@ -24,7 +24,10 @@ function MyApp({ Component, pageProps }) {
         <meta property="og:site_name" content="Next tailwind starter" />
         <meta property="og:type" content="website" />
         <meta property="og:image:alt" content="Next tailwind starter" />
-        <link rel="canonical" href={`${process.env.NEXT_PUBLIC_SITE_URL}`} />
+        <link
+          rel="canonical"
+          href="https://next-tailwindcss-template.vercel.app/"
+        />
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
