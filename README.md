@@ -2,11 +2,10 @@
 
 # Next.js Tailwind CSS starter setup
 
-npm install.
-npm run dev.
-open - http://localhost:3000
-
-[Live Url](https://next-tailwindcss-template.vercel.app/)
+- npm install.
+- npm run dev.
+- open - http://localhost:3000
+- [Live Url](https://next-tailwindcss-template.vercel.app/)
 
 ## Features
 

@@ -24,12 +24,7 @@ function Landing() {
               animation and custom button.
             </p>
 
-            <Button
-              target="_blank"
-              href="/"
-              text="Back to home"
-              design="bg-white text-black"
-            />
+            <Button href="/" text="Back to home" design="bg-white text-black" />
           </div>
         </Container>
       </section>
